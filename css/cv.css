@@ -1,0 +1,170 @@
+.main{
+	height: 3540px;
+	width: 2600px;
+	border-style: ridge;
+	border-width: : 2px;
+	border-color: black;
+	float: center;
+	margin-top: 2%;
+	margin-left: 34%;
+	background-color: bisque;
+}
+
+/*Top part...*/
+
+.topleft{
+	height: 600px;
+	width: 600px;
+	border-style: ridge;
+	border-width: : 2px;
+	border-color: black;
+	border-radius: 160%;
+	float: left;
+	margin-top: 3%;
+	margin-left: 6%;
+}
+
+.topright{
+	height: 430px;
+	width: 1640px;
+	font-size:60px;
+	font-family: Helvetica;
+	margin-top: 6%;
+	margin-right: 6%;
+	margin-left: 25%;
+}
+
+img{	
+	border-radius:200%;
+}
+
+ul{
+	margin-left: 18%;
+}
+
+h1{
+	margin-left: 18%;
+	font-size: 122px;
+	font-family:Candara;
+	color:darkblue;
+}
+
+/*Middle part...*/
+
+.skill{
+	margin-top:6%;
+	height: 820px;
+	width: 2600px;
+	background-color: maroon;
+	font-size: 50px;
+	font-family:Sans-serif;
+}
+
+h3{
+	margin-left: 43%;
+	font-size: 122px;
+	font-family:Candara;
+	color:white;
+}
+
+.pl{
+	height: 300px;
+	width: 680px;
+	float:left;
+	margin-left:6%;
+	color:white;
+}
+
+.ml{
+	height: 300px;
+	width: 680px;
+	float:left;
+	margin-left:4%;
+	color:white;
+}
+
+.web{
+	height: 300px;
+	width: 720px;
+	float:left;
+	margin-left:4%;
+	color:white;
+}
+
+.experience{
+	height: 640px;
+	width: 2600px;
+	margin-top:7%;
+	background-color: darkslategray;
+	font-family:Sans-serif;
+}
+
+/*Bottom part*/
+
+.education{
+	height: 800px;
+	width: 2600px;
+	background-color: darkblue;
+	font-family:Sans-serif;
+}
+
+h4{
+	margin-left: 22%;
+	font-size: 118px;
+	font-family:Candara;
+	color:white;
+}
+
+h5{
+	margin-left: 38%;
+	font-size: 112px;
+	font-family:Candara;
+	color:white;
+}
+
+.uni{
+	height: 300px;
+	width: 880px;
+	float:left;
+	margin-left:6%;
+	color:white;
+	font-size:46px;
+}
+
+.hsc{
+	height: 300px;
+	width: 600px;
+	float:left;
+	margin-left:2%;
+	color:white;
+	font-size:46px;
+}
+
+.ssc{
+	height: 300px;
+	width: 800px;
+	float:left;
+	margin-left:4%;
+	color:white;
+	font-size:46px;
+}
+
+.st{
+	height: 300px;
+	width: 1000px;
+	float:left;
+	margin-left:6%;
+	color:white;
+	font-size:55px;
+
+}
+
+.com{
+	height: 300px;
+	width: 1000px;
+	float:left;
+	margin-left:12%;
+	color:white;
+	font-size:55px;
+
+}
